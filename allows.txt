@@ -1,3 +1,4 @@
+m.daocloud.io/docker.io/mzz2017/v2raya
 cr.l5d.io/**
 cr.weaviate.io/**
 docker.elastic.co/**
